@@ -1,0 +1,16 @@
+body 
+{
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(41,0,128,1) 42%, rgba(46,0,141,1) 60%, rgba(94,0,255,1) 100%);
+}
+#titulo {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+}
+.card-title {
+    text-align: center;
+}
+.card-text{
+    text-align: justify;
+}
