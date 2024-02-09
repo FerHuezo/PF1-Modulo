@@ -14,3 +14,11 @@ background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(41,0,128,1) 42%, rgba
 .card-text{
     text-align: justify;
 }
+.card-text-1 {
+    text-align: center;
+}
+#footer{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white; 
+}
